@@ -18,6 +18,12 @@ const masterTicketList = [
     location: `9F`,
     issue: ` Child componenet isn't rendering.`,
   },
+
+  {
+    names: `Jack & Jill`,
+    location: `10F`,
+    issue: ` something is wrong - test.`,
+  },
 ];
 
 function TicketList() {
